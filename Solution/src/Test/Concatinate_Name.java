@@ -17,3 +17,13 @@ public class Concatinate_Name {
         System.out.println(ans);
     }
 }
+/*
+My patience is waning, is this entertaining
+our patience is waning , is this entertaining
+I-I-I got this feeling ,yeah , you know
+where  I am losing all control
+cause there's magic in my bones
+I-I-I got this feeling in my soul
+go ahead and throw your stones
+cause there's magic in my bones
+ */
