@@ -25,4 +25,6 @@ public class Find_the_Smallest_Divisor_Given_a_Threshold {
         }
         return left;
     }
+
+
 }
